@@ -23,5 +23,3 @@ A full-featured social media application built with **JavaScript**, **Node.js**,
 - Implemented secure routing and session management using Next.js authentication patterns.
 - Achieved **80% code coverage** through comprehensive unit and integration testing.
 - Leveraged AI tools like ChatGPT and GitHub Copilot to speed up development workflows and improve test robustness.
-
-## Project Structure
